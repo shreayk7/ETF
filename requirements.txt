@@ -4,4 +4,9 @@ numpy
 pandas
 matplotlib
 tensorflow
-yfinance
+matplotlib.pyplot
+seaborn
+tensorflow.keras
+tensorflow.keras.layers 
+sklearn.model_selection 
+sklearn
